@@ -1,6 +1,6 @@
 # 3D-Parametric-Models-Created-by-Chitranshu
 
-## Quick Return Mechanism
+## Quick Return Mechanism Assembly
 ![](./3D-Models/8.png)
 
 ## Pulley Assembly
