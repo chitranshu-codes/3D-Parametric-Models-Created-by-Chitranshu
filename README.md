@@ -1,5 +1,9 @@
 # 3D-Parametric-Models-Created-by-Chitranshu
 
+## Finite Element Method(FEM) - FreeCAD
+![](./3D-Models/13.png)
+![](./3D-Models/12.png)
+
 ## Planetary Gear Train
 ![](./3D-Models/10.png)
 
