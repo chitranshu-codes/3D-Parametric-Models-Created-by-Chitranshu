@@ -1,5 +1,8 @@
 # 3D-Parametric-Models-Created-by-Chitranshu
 
+## Gear Slider Mechanism
+![](./3D-Models/14.png)
+
 ## Finite Element Method(FEM) - FreeCAD
 ![](./3D-Models/13.png)
 ![](./3D-Models/12.png)
